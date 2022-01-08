@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #d3dedc;
+  padding: 5px;
+  position: relative;
+
+}
+
+.middle-container {
+  margin: 100px;
+
+}
+
+.bottom-container {
+background-color: #406882;
+padding: 40px 0 20px;
+
+}
+.tstat {
+  height:20rem;
+  width: 20rem;
+
+}
+.snowflake {
+  position: absolute;
+  left:300px;
+  height:10rem;
+  width:10rem;
+    }
+.sun {
+  position: relative;
+  left: 400px;
+  top:25px;
+  height:10rem;
+  width:10rem;
+}
+ h1{
+font-family: 'Mate SC', serif;
+margin-top: 50px auto 0 auto;
+font-size: 5rem;
+color: #7C99AC;
+}
+h2 {
+font-family: 'Mate SC', serif;
+font-size: 2.5rem;
+color: #7C99AC;
+font-weight: normal;
+}
+p {
+font-family: 'Mate SC', serif;
+font-size: 1.5rem;
+color: #7C99AC;
+font-weight: normal;
+line-height: 2;
+
+
+}
+ h3 {
+font-family: 'Mate SC', serif;
+font-size: 2.5rem;
+color: #7C99AC;
+font-weight: normal;
+margin-top: 0;
+margin-bottom: 10px;
+
+
+
+}
+.ac {
+  height:300px;
+  width:300px;
+
+
+  }
+
+  .ac2 {
+    height:200px;
+    width:200px;
+    margin-top:60px;
+
+  }
+  .user {
+    height:200px;
+    width:200px;
+
+  }
+  .water-heater {
+    height:200px;
+    width:200px;
+    margin-top:60px;
+
+}
+.skill-row {
+  width:50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 5%;
+  border-color: #B1D0E0;
+}
+.btn {
+  background: #B1D0E0;
+  background-image: -webkit-linear-gradient(top, #B1D0E0, #6998AB);
+  background-image: -moz-linear-gradient(top, #B1D0E0, #6998AB);
+  background-image: -ms-linear-gradient(top, #B1D0E0, #6998AB);
+  background-image: -o-linear-gradient(top, #B1D0E0, #6998AB);
+  background-image: linear-gradient(to bottom, #B1D0E0, #6998AB);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 26px;
+  padding: 10px 20px 13px 19px;
+  border: solid #bacfd9 2px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+a{
+  font-family: 'Mate SC', serif;
+  font-size: 1.2rem;
+  color: #F4F4F2;
+  margin: 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.copyright {
+  font-family: 'Mate SC', serif;
+  font-size: 1.2rem;
+  color: #F4F4F2;
+  padding:20px 0 0;
+
+
+
+}
